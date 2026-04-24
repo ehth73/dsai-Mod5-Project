@@ -1,0 +1,82 @@
+{
+  "paths": {
+    "source_data_dir": "input_files",
+    "db_path": "chroma_db"
+  },
+  "models": {
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "groq_model": "llama-3.1-8b-instant",
+    "temperature": 0.2
+  },
+  "retrieval": {
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "top_k": 3,
+    "rebuild_on_startup": true
+  },
+  "web_search": {
+    "enabled": true,
+    "max_results": 5,
+    "hints": [
+      "today",
+      "latest",
+      "recent",
+      "currently",
+      "current",
+      "now",
+      "news",
+      "public announcement",
+      "mas",
+      "monetary authority of singapore",
+      "outage",
+      "downtime",
+      "maintenance",
+      "network issue",
+      "visa",
+      "mastercard",
+      "paynow",
+      "giro",
+      "fast",
+      "scam alert",
+      "police advisory",
+      "interest rate",
+      "exchange rate",
+      "website",
+      "public policy",
+      "press release"
+    ]
+  },
+  "agents": {
+    "cards_fraud_agent": {
+      "collection_name": "cards_fraud_collection",
+      "persona": "Cards & Fraud Specialist",
+      "description": "Lost cards, card fraud, scams, OTP compromise, unauthorised transactions, card blocking and urgent containment."
+    },
+    "payments_agent": {
+      "collection_name": "payments_collection",
+      "persona": "Payments and Transfers Specialist",
+      "description": "FAST, GIRO, PayNow, remittance, transfer delays, payment tracing, and payment recovery."
+    },
+    "complaints_agent": {
+      "collection_name": "complaints_collection",
+      "persona": "Complaints and Service Recovery Specialist",
+      "description": "Complaints, service recovery, branch dissatisfaction, rude service, escalation handling."
+    },
+    "service_agent": {
+      "collection_name": "service_collection",
+      "persona": "Bank Products and Account Servicing Specialist",
+      "description": "Accounts, cards, loans, deposits, fees, account servicing, and general banking product questions."
+    },
+    "general_agent": {
+      "collection_name": "general_collection",
+      "persona": "General Banking Assistant",
+      "description": "Fallback for greetings, broad questions, and topics outside the supported bank contact centre domains."
+    }
+  },
+  "classification_rules": {
+    "cards_fraud_agent": ["card", "fraud", "scam", "otp", "phishing", "stolen", "unauthorised", "chargeback"],
+    "payments_agent": ["payment", "transfer", "fast", "giro", "paynow", "remittance", "beneficiary", "swift"],
+    "complaints_agent": ["complaint", "escalation", "service recovery", "rude", "dissatisfaction", "feedback"],
+    "service_agent": ["account", "loan", "deposit", "fixed deposit", "mortgage", "balance", "statement", "product", "servicing"]
+  }
+}
