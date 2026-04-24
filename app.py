@@ -13,9 +13,8 @@ from typing import Any, Dict, List, TypedDict
 
 import chromadb
 import gradio as gr
-
 from langchain_chroma import Chroma
-from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader, CSVLoader, UnstructuredFileLoader
+from langchain_community.document_loaders import CSVLoader, PyPDFLoader, TextLoader, UnstructuredFileLoader
 from langchain_community.tools.ddg_search.tool import DuckDuckGoSearchResults
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_groq import ChatGroq
@@ -366,6 +365,7 @@ compiled_app = workflow.compile()
 
 
 def chat_fn(message: str, history: List[Dict[str, str]] | None = None) -> str:
+    _ = history
     if not message or not message.strip():
         return "Please enter a banking contact-centre question."
     result = compiled_app.invoke({"query": message, "response": "", "next_node": "", "debug_log": ""})
@@ -375,7 +375,7 @@ def chat_fn(message: str, history: List[Dict[str, str]] | None = None) -> str:
 
 
 with gr.Blocks(title="Bank Contact Centre Multi-Agent Demo") as demo:
-    gr.Markdown("# 🏦 Bank Contact Centre Multi-Agent Demo")
+    gr.Markdown("# Bank Contact Centre Multi-Agent Demo")
     gr.Markdown(
         "Ask about cards, fraud, payments, complaints, accounts, deposits, loans, or current public banking information."
     )
