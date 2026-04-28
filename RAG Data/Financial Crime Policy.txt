@@ -1,0 +1,51 @@
+Financial Crime Policy
+
+Fighting financial crime
+ Overview
+ Expertise
+ Partnerships
+ Technology
+
+ Financial Crime Policy
+We are committed to preventing our products and services from being exploited for criminal activity. Our Global Financial Crime Policy (FC Policy) establishes the risk management and control requirements to enable HSBC and its staff to detect, analyse, investigate, report and mitigate the risk of HSBC facilitating or being used to facilitate financial crime.
+Our FC Policy establishes a risk-based programme to manage and mitigate the risk of our products and services being used for financial crime, which includes:
+ Annual assessment of the risk HSBC faces (across all financial crime risks) in connection with our customers, the geographies we operate in, the transactions we process, the products and services we offer and our delivery channels
+ Risk-based customer due diligence, including enhanced due diligence measures that apply to higher risk customers
+ Monitoring customer transactions and behaviour for indicators of financial crime to detect, identify, investigate and report suspicious activity to the appropriate regulatory and/or law enforcement bodies
+ Measures to prevent suspect payments and the use of HSBC  s products and services for criminal activity
+ The exit of customers where financial crime risk is identified
+ Record retention relating to customer relationships and transactions
+ Regular independent testing of our policies, controls and procedures for managing financial crime risk
+ Mandatory financial crime training for all colleagues, with additional training provided to certain teams as appropriate that is tailored according to roles and responsibilities
+In compliance with our legal and regulatory obligations and our FC Policy, we may from time to time reject transactions, freeze assets or refuse to provide services. Our FC Policy may set stricter requirements than our legal obligations, and we may choose not to support certain customer relationships or business activity even if they are legally permitted. Such relationships and activities are considered on a case-by-case basis.
+HSBC is an active user of Know Your Customer (KYC) data exchange platform Swift KYC Registry. Third parties seeking due diligence information and documents relating to HSBC  s risk management activities, including the Wolfsberg Correspondent Banking Due Diligence Questionnaire (CBDDQ), should refer to this service in the first instance.
+In addition to the above and the content of this website, industry standard questionnaires such as the Wolfsberg Financial Crime Compliance Questionnaire (FCCQ) and the International Securities Services Association (ISSA) Questionnaire are also available.
+ Know Your Customer (KYC) data exchange platform Swift KYC Registry(opens in new window)
+ The Wolfsberg Financial Crime Compliance Questionnaire (FCCQ)
+ The International Securities Services Association (ISSA) Questionnaire
+Global USA Patriot Act Certification
+HSBC has prepared a Global Certification for use by any financial institution that requires a USA Patriot Act Certification from an HSBC Group entity.
+Download HSBC  s Global USA Patriot Act Certification (PDF 425KB) 
+Anti-money laundering, terrorist financing and proliferation financing
+HSBC  s FC Policy prohibits certain customer types including those that pose an unacceptable level of money laundering, terrorist financing or proliferation financing risk, such as shell banks or customers who are proscribed for terrorism-related reasons. It also prohibits certain activities, such as the use of anonymous accounts and payable-through accounts.
+Further, the FC Policy establishes more stringent controls applicable to customers who may present an elevated money laundering, terrorist financing or proliferation financing risk, including digital asset service providers, non-banking financial institutions, politically exposed persons, correspondent banks and customers established in a country identified as having strategic anti-money laundering and counter-terrorist financing deficiencies.
+Sanctions and export controls
+Our FC Policy generally prohibits relationships or transactions involving sanctioned individuals and entities or comprehensively sanctioned countries, territories and their governments. In order to comply with our regulatory requirements, we may also be required to reject transactions or freeze assets. HSBC may, in its sole discretion, agree to process certain transactions prohibited or restricted under the FC Policy that are authorised by a licence from an appropriate authority or are otherwise permitted under applicable laws and regulation, such as those which relate to humanitarian aid. These transactions will be considered by HSBC on a case-by-case basis.
+Further, HSBC will not knowingly engage in any activity that violates or evades applicable export controls laws or regulations in the jurisdictions in which we operate.
+Critical Goods List (For Client Use) (PDF 174KB) 
+Bribery and corruption
+HSBC  s FC Policy requires staff and third parties to adhere to key Anti-Bribery & Corruption (AB&C) principles, namely all activities must:
+ be conducted without intent to bribe or corrupt
+ be reasonable and transparent
+ not be considered lavish or disproportionate to the professional relationship
+ be appropriately documented and supported by a clear business rationale
+ be authorised at an appropriate level of seniority
+Further, our FC Policy prohibits staff and third parties from engaging in bribery and corruption, including expressly prohibiting the payment of bribes (including facilitation payments), the receipt of bribes or funds derived from corrupt activity or the use of their interactions and relationships to induce, or be seen to induce, improper action in order to obtain or retain a business advantage. All customers and third parties are subject to an assessment of the bribery and corruption risk they pose, which informs their risk rating and the level of due diligence and ongoing monitoring that applies. Associated persons, third parties acting for or on behalf of HSBC, must satisfy enhanced due diligence requirements.
+Tax evasion and tax evasion facilitation
+The FC Policy recognises the global nature of HSBC  s customers and the complexity of their needs, and the anti-tax evasion and anti-tax evasion facilitation programme comprises the following key components to mitigate the risk of tax evasion:
+ A risk-based approach to managing tax evasion risk and tax evasion facilitation risk associated with our customers through controls and processes (including due diligence and monitoring) that are tailored to the assessment and level of risk posed by the customer and the products or services they use. These processes are designed to comply with international information sharing initiatives, such as the US Foreign Account Tax Compliance Act (FATCA) and the Organisation for Economic Cooperation and Development (OECD) Common Reporting Standard (CRS)
+ The management of tax evasion facilitation risk arising from associated persons through risk assessments, due diligence and oversight of third-party engagements
+ Assessment of the tax evasion risk associated with HSBC  s products and services
+Fraud
+HSBC  s FC Policy includes controls to mitigate the risk of our products and services being used for fraudulent activity, and the risk of our customers or HSBC becoming the victims of fraud. It also prohibits processing transactions known or suspected to be fraudulent and customer relationships with persons who are known or suspected to have committed fraud.
+The FC Policy seeks to find a balance between implementing effective controls and minimising friction in the customer experience, as well as the repatriation of funds as appropriate.

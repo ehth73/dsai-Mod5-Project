@@ -1,0 +1,59 @@
+In every sector, technological advances are raising customers’ expectations regarding how they should be able to interact with brands.
+
+The banking and finance sector, which has long emphasized product strategy over customer experience (CX), is facing increasing pressure from brick-and-mortar, online, and fintech competition. This makes it critical for brands in the industry—especially well-established ones with a heavy reliance on a human touch—to deliver CX that gives customers what they truly want and need.
+
+Millennial and Gen Z bank customers in particular are demanding frictionless CX that mirrors non-financial digital CX—such as their interactions with retail, travel, and entertainment brands—and helps them live their lives with more convenience.
+
+Two-thirds of Hong Kong Millennials in a recent HSBC survey rated seamless integration of their banking services as “extremely” or “very” important. Attracting these consumers and encouraging them to expand their relationships with the bank require a strengthened focus on building CX that helps people integrate and navigate their financial lives.
+
+A seamless banking experience benefits all customers, so every bank needs a CX roadmap that outlines customers’ diverse visions, priorities, and needs at every life stage in order to offer consistent and personalized experiences and build brand loyalty.
+
+HSBC Hong Kong’s customer-centric approach to building a better CX, both online and offline, relies on a framework built around a customer experience model (CEM) and customer lifecycle management (CLCM).
+
+Elevating Customer Experience with Customer Experience Model and Customer Lifecycle Management
+
+
+To gain an in-depth understanding of customer pain points, HSBC builds a CEM by conducting Net Promoter Score (NPS) surveys at various touchpoints and channels. Using an automated Voice of the Customer engine, the CEM can derive customer insights from raw data, enabling HSBC to address negative CX promptly.
+
+HSBC applies the survey results to its Customer Forum, a governance and discussion platform in which all departments can review initiatives through the customer lens to help the bank prioritize the journey improvements that matter most to customers.
+
+The implementation of this “NPS ecosystem” has revolutionized the bank’s culture by placing customer-centricity at the core of its business strategy for the first time and embedding NPS into the scorecards of every staffer.
+
+The CLCM framework applies a centralized, data-led approach to improve customer engagement by analyzing a massive volume of data points from transactional and non-transactional behaviors and integrating predictive capabilities to give users a seamless, tailored CX.
+
+CLCM has transformed the way HSBC interacts with its customers by ensuring that the bank can identify and meet their banking needs in real time. Also, the interplay between CEM-generated insights and CLCM-prescribed actions results in a regular, systematic progression of customer engagement as well as improved products and services and more-effective lifecycle management.
+
+Turning Customer Insight into Action
+
+To enrich CX across four lifecycle stages—acquisition, activation, relationship-deepening, and retention—HSBC employs machine learning (ML) and real-time computing to analyze 1.3 million customer behavior signals every day, including transactions, card use, digital footprints, and app signals. These insights help HSBC generate customer profiles and inform its strategic response.
+
+Real-time artificial intelligence (AI)–driven findings also help the CLCM framework improve customers’ financial well-being and move them closer to achieve their wealth goals through automated, customized onboarding and relationship-building communications.
+
+
+HSBC turns such insights into action by creating products and offers that cater to individual needs and changing trends. CLCM tracks customer input and activities in real time with robust data-analytics capabilities that help the bank further evaluate and refine its customer engagement.
+
+Insights from the CEM have shown that the end-to-end banking experience matters more to customers than product features. It has also revealed that customers prefer digital-first interactions to branch visits, with 90% of respondents saying digital is key to their experience. As a result, HSBC has committed more resources toward improving its digital capabilities for a true “bank in your pocket” experience.
+
+The Digital Account Opening Journey
+
+HSBC Hong Kong has used insights from its CEM and CLCM platforms to transform its digital account-opening process for customers. Streamlining the process is one key area of CX improvement.
+
+NPS surveys showed that customers felt the account-opening process was overly long and complex, requiring in-person branch visits and paper documents—critical pain points that led HSBC to reshape and simplify its account-opening process from a 45-minute, in-person procedure at a bank branch into a five-minute process available 24/7 on mobile devices. The change set the industry standard upon its introduction in 2021.
+
+In response to customer demand for easier application procedures, HSBC also integrated its credit card application and investment account–opening processes into the same journey, giving most customers the instant ability to save, spend, and invest in one go within just 12 minutes.
+
+Recognizing that new customers have diverse interests and needs, HSBC also developed 60 automated and personalized messaging modules explaining account features and dedicated offers over the course of a customer’s first 90 days, all based on data-driven insights and customer behaviors.
+
+In addition to the HSBC account welcome email, the messaging engine screens customers’ identities and detects their messaging preferences to provide additional onboarding modules tailored to their specific banking needs.
+
+The elevated customer experience resulted in 20% more new customers choosing HSBC as their primary bank. As of 2023, eight out of 10 Hong Kong Millennials bank with HSBC, a testament to the bank’s emphasis on customer experience.
+
+A New Banking Experience
+
+Following four years of transforming its customer experience through the CEM and CLCM, HSBC achieved a record-high, market-leading NPS score for the second consecutive year in 2023, indicating that customers prefer HSBC to other banks and are more willing to recommend it to their friends and families.
+
+“CLCM is at the heart of our customer experience promise and aims to bring the best personalized customer engagement at the right time and right place, empowered by the technology, data, and analytics,” says Maggie Ng, HSBC’s head of wealth and personal banking for Hong Kong.
+
+Learn more about HSBC Hong Kong—Accounts, Insurance, Credit Cards, Loans.
+
+
